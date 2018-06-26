@@ -72,6 +72,7 @@ Dentro de los alcances del proyecto, se encuentra lo siguiente:
 	- Identificación de roles y capacidades de los usuarios del sistema.
 	- Determinar las funcionalidades del sistema.
 	- Estimación de costos y tiempos.
+	- Estimación de riesgos del proyecto.
 	- Firma del Contrato.
 - Construcción del Software
 	- Definición y análisis de requerimientos.
@@ -88,9 +89,10 @@ Dentro de los alcances del proyecto, se encuentra lo siguiente:
 		- Nómina.
 		- Inventario.	
 - Pruebas
-	- Prueba de componente de Venta.
-	- Prueba de componente de Nómina.
-	- Prueba de componente de Inventario.
+	- Prueba de componente
+		- Venta.
+		- Nómina.
+		- Inventario.	
 	- Pruebas de Integración.
 
 - Puesta en Marcha
