@@ -51,3 +51,58 @@ Para lo anterior se propone como solución el proyecto al que llamamos “Conces
 Dentro de los alcances del proyecto, se encuentra lo siguiente:
 - Se trabaja el concesionario con automóviles de la marca Nissan.
 - El proyecto abarca tres secciones, entre las cuales encontramos, nómina, inventario de vehículos y cotización; la nómina dentro del software contempla el sueldo base y las bonificaciones de cada asesor comercial, teniendo en cuenta las ventas realizadas por cada uno. El inventario, permite llevar un control de precios y existencias dentro del concesionario, y por último la sección de cotización, la cual habilita al vendedor para que realice una estimación de la venta de un determinado vehículo, que incluye costos e impuestos adquiridos por la compra de un nuevo automotor.
+
+
+
+### CRITERIOS DE ÉXITO
+- La información disponible debe ser entendida fácilmente y estar disponible para los stakeholder del proyecto
+- La cotización debe ser fácil de actualizar para los vendedores y/o asesores comerciales
+- Los módulos de la aplicación deben ser extensibles
+- La velocidad de respuesta de la aplicación debe ser rápida desde donde sea utilizada.
+- La nómina del concesionario debe ser actualizable de acuerdo a un periodo de corte y debe ser fácil de construir
+- Las transacciones deben generar una actualización de datos en las entidades involucradas.
+
+
+### LISTA DE TAREAS
+-Determinar las funcionalidades del sistema
+-Investigación del modulo de negocio de la organización.
+-Definición y análisis de requerimientos.
+-Informe preliminar de requerimientos.
+-Identificación de roles y capacidades de los usuarios del sistema
+-Integración de componentes y despliegue de la aplicación
+-Diseño e implementación de pruebas por componentes
+-Revisión de requerimientos
+-Capacitación de personal
+-Asignación de roles y responsabilidades del equipo de trabajo
+-Establecimiento de objetivos y alcance
+-Diseño del modelo de la base de datos.
+
+### ESTRUCTURA DE DESGLOSE DE TRABAJO
+La estructura de desglose de trabajo, una descomposición jerárquica orientada al trabajo que será ejecutado por el equipo del proyecto para lograr los objetivos del mismo y crear los entregables requeridos [1]. A continuación podemos observar el EDT del proyecto:
+
+
+### ORGANIGRAMA
+Por medio de un organigrama, es posible observar la estructura dentro de la organización y la relaciones presentes entre cada una de sus partes junto con su función. En la siguiente gráfica podemos analizar cómo está constituida la estructura dentro del proyecto:
+
+
+### ESTIMACIONES
+
+A través de la estimación dentro del proyecto de software, conseguimos analizar diferentes variables que influyen dentro del desarrollo, como las variables humanas, técnicas, de entorno, entre otras, las cuales pueden afectar al costo final del software y al esfuerzo aplicado para desarrollarlo.
+Gracias a la descomposición del software en módulos más pequeños se puede realizar una estimación de costos en el desarrollo del proyecto, analizando la complejidad, horas dedicadas, número de objetos y acciones.En la siguiente tabla se logra resumir las estimaciones mencionadas: 
+
+(import tabla estimaciones)
+
+Al obtener el número de horas requeridas para desarrollar el proyecto, podemos dividir entre diferentes secciones las tareas a realizar y estimar el costo de contratación de cada ingeniero:
+
+(import tabla valores)
+
+
+### CRONOGRAMA
+El cronograma permite la asignación de fechas para cada tarea que se tuvo en cuenta a la hora de estimar los módulos de la aplicación. En la siguiente figura, podemos examinar las fechas planteadas para el desarrollo del proyecto:
+
+
+
+### Bibliografía.
+
+[1] A Guide to the Project Management Body of Knowledge. Tomado el 24 de junio de 2018.
+
