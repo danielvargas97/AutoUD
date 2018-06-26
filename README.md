@@ -1,24 +1,32 @@
-### AutoUD
+#AutoUD
+
+CONCESIONARIO AUTOUD
+PROYECTO
 
 
-There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+DANIEL ALFONSO VARGAS ORTIZ
+20152020009
+DAVID HERNANDO CASTRO SANTIAGO
+20152020018
+JUAN SEBASTIÁN SÁNCHEZ MANCILLA
+20152020020
+ÓSCAR IVÁN TORRES PINTO
+20152020044
+DAVID RICARDO CORTÉS LEAL
+20152020050
 
-    if (isAwesome){
-      return true
-    }
 
-GitHub also supports something called code fencing, which allows for multiple lines without indentation:
 
-```
-if (isAwesome){
-  return true
-}
-```
-
-And if you'd like to use syntax highlighting, include the language:
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+##GENERALIDADES DEL PROYECTO
+-DESCRIPCIÓN DEL PROYECTO
+- OBJETIVOS DEL PROYECTO
+	- General
+	- Específicos
+- ALCANCES DEL PROYECTO
+- CRITERIOS DE ÉXITO
+- LISTA DE TAREAS
+- ESTRUCTURA DE DESGLOSE DE TRABAJO
+- ORGANIGRAMA
+- ESTIMACIONES
+- CRONOGRAMA
+- BIBLIOGRAFÍA
