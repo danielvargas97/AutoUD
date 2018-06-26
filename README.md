@@ -79,9 +79,14 @@ Dentro de los alcances del proyecto, se encuentra lo siguiente:
 	- Revisión de requerimientos
 	- Diseño del modelo de la base de datos.
 	- Implementación del modelo de base de datos.
-	- Generación de componente de Venta.
-	- Generación de componente de Nómina.
-	- Generación de componente de Inventario.
+	- Diseño de componentes
+		- Venta.
+		- Nómina.
+		- Inventario.
+	- Implementación de componentes
+		- Venta.
+		- Nómina.
+		- Inventario.	
 - Pruebas
 	- Prueba de componente de Venta.
 	- Prueba de componente de Nómina.
