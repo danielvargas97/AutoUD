@@ -115,11 +115,13 @@ Por medio de un organigrama, es posible observar la estructura dentro de la orga
 A través de la estimación dentro del proyecto de software, conseguimos analizar diferentes variables que influyen dentro del desarrollo, como las variables humanas, técnicas, de entorno, entre otras, las cuales pueden afectar al costo final del software y al esfuerzo aplicado para desarrollarlo.
 Gracias a la descomposición del software en módulos más pequeños se puede realizar una estimación de costos en el desarrollo del proyecto, analizando la complejidad, horas dedicadas, número de objetos y acciones.En la siguiente tabla se logra resumir las estimaciones mencionadas: 
 
-(import tabla estimaciones)
+![Estimación ](https://github.com/danielvargas97/AutoUD/blob/master/Estimacion-1.png)
 
 Al obtener el número de horas requeridas para desarrollar el proyecto, podemos dividir entre diferentes secciones las tareas a realizar y estimar el costo de contratación de cada ingeniero:
 
-(import tabla valores)
+![Estimación 2 ](https://github.com/danielvargas97/AutoUD/blob/master/Estimacion-2.png)
+![Estimación 3 ](https://github.com/danielvargas97/AutoUD/blob/master/Estimacion-3.png)
+![Estimación 4 ](https://github.com/danielvargas97/AutoUD/blob/master/Estimacion-4.png)
 
 
 ### CRONOGRAMA
