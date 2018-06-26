@@ -108,7 +108,7 @@ La estructura de desglose de trabajo, una descomposición jerárquica orientada 
 
 ### ORGANIGRAMA
 Por medio de un organigrama, es posible observar la estructura dentro de la organización y la relaciones presentes entre cada una de sus partes junto con su función. En la siguiente gráfica podemos analizar cómo está constituida la estructura dentro del proyecto:
-
+![Organigrama](https://github.com/danielvargas97/AutoUD/blob/master/Organigrama%20Proyecto.png)
 
 ### ESTIMACIONES
 
