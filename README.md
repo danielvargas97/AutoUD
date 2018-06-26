@@ -64,18 +64,35 @@ Dentro de los alcances del proyecto, se encuentra lo siguiente:
 
 
 ### LISTA DE TAREAS
--Determinar las funcionalidades del sistema
--Investigación del modulo de negocio de la organización.
--Definición y análisis de requerimientos.
--Informe preliminar de requerimientos.
--Identificación de roles y capacidades de los usuarios del sistema
--Integración de componentes y despliegue de la aplicación
--Diseño e implementación de pruebas por componentes
--Revisión de requerimientos
--Capacitación de personal
--Asignación de roles y responsabilidades del equipo de trabajo
--Establecimiento de objetivos y alcance
--Diseño del modelo de la base de datos.
+- Inicio del Proyecto
+- Preliminares 
+	- Establecimiento de objetivos y alcance.
+	- Investigación del modelo de negocio de la organización.
+	- Asignación de roles y responsabilidades del equipo de trabajo
+	- Identificación de roles y capacidades de los usuarios del sistema.
+	- Determinar las funcionalidades del sistema.
+	- Estimación de costos y tiempos.
+	- Firma del Contrato.
+- Construcción del Software
+	- Definición y análisis de requerimientos.
+	- Informe preliminar de requerimientos.
+	- Revisión de requerimientos
+	- Diseño del modelo de la base de datos.
+	- Implementación del modelo de base de datos.
+	- Generación de componente de Venta.
+	- Generación de componente de Nómina.
+	- Generación de componente de Inventario.
+- Pruebas
+	- Prueba de componente de Venta.
+	- Prueba de componente de Nómina.
+	- Prueba de componente de Inventario.
+	- Pruebas de Integración.
+
+- Puesta en Marcha
+	- Despliegue de la aplicación.
+	- Capacitación de personal del concesionario.
+
+- Cierre de Proyecto.
 
 ### ESTRUCTURA DE DESGLOSE DE TRABAJO
 La estructura de desglose de trabajo, una descomposición jerárquica orientada al trabajo que será ejecutado por el equipo del proyecto para lograr los objetivos del mismo y crear los entregables requeridos [1]. A continuación podemos observar el EDT del proyecto:
