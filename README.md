@@ -136,12 +136,23 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 ### RIESGOS
 
 #### RBS
+![Riesgo RBS ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/RBS/RBS.png)
 
 #### FLUJOGRAMA
+![Riesgo Flujograma ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Flujograma/flujograma.png)
 
 #### TABLA DE IDENTIFICACIÓN DE RIESGOS
 
+![Riesgo Tabla 1 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-1.jpg)
 
+
+![Riesgo Tabla 2 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-2.jpg)
+
+![Riesgo Tabla 3 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-3.jpg)
+
+![Riesgo Tabla 4 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-4.jpg)
+
+![Riesgo Tabla 5 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-5.jpg)
 
 ### Bibliografía.
 
