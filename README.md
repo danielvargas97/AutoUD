@@ -22,6 +22,10 @@
 - ESTRUCTURA DE DESGLOSE DE TRABAJO
 - ORGANIGRAMA
 - ESTIMACIONES
+- RIESGOS
+	- RBS
+	- FLUJOGRAMA
+	- TABLA DE IDENTIFICACIÓN DE RIESGOS
 - CRONOGRAMA
 - BIBLIOGRAFÍA
 
@@ -126,6 +130,16 @@ Al obtener el número de horas requeridas para desarrollar el proyecto, podemos 
 
 ### CRONOGRAMA
 El cronograma permite la asignación de fechas para cada tarea que se tuvo en cuenta a la hora de estimar los módulos de la aplicación. En la siguiente figura, podemos examinar las fechas planteadas para el desarrollo del proyecto:
+
+[Cronograma](https://gcvvs.openproject.com/projects/gestion/timelines/1)
+
+### RIESGOS
+
+#### RBS
+
+#### FLUJOGRAMA
+
+#### TABLA DE IDENTIFICACIÓN DE RIESGOS
 
 
 
