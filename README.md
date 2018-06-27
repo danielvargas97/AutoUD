@@ -108,7 +108,7 @@ Dentro de los alcances del proyecto, se encuentra lo siguiente:
 ### ESTRUCTURA DE DESGLOSE DE TRABAJO
 La estructura de desglose de trabajo, una descomposición jerárquica orientada al trabajo que será ejecutado por el equipo del proyecto para lograr los objetivos del mismo y crear los entregables requeridos [1]. A continuación podemos observar el EDT del proyecto:
 
-![Estructura de Desglose de Trabajo ](https://github.com/danielvargas97/AutoUD/blob/master/edt_y_organigrama-WBS%20(1).png)
+![Estructura de Desglose de Trabajo ](https://github.com/danielvargas97/AutoUD/blob/master/edt_proyecto.png)
 
 ### ORGANIGRAMA
 Por medio de un organigrama, es posible observar la estructura dentro de la organización y la relaciones presentes entre cada una de sus partes junto con su función. En la siguiente gráfica podemos analizar cómo está constituida la estructura dentro del proyecto:
