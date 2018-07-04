@@ -157,8 +157,7 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 ### METODOLOGÍA DEV OPS
 
 #### MODELO DE PROCESO
-![Modelo proceso ]
-(https://github.com/danielvargas97/AutoUD/blob/master/Modelo%20de%20Proceso%20de%20Desarrollo/Dev%20Ops%20AutoUD%20IV-1.0.png)
+![Modelo proceso](https://github.com/danielvargas97/AutoUD/blob/master/Modelo%20de%20Proceso%20de%20Desarrollo/Dev%20Ops%20AutoUD%20IV-1.0.png)
 
 ### Bibliografía.
 
