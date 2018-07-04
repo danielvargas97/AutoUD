@@ -154,6 +154,12 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 
 ![Riesgo Tabla 5 ](https://github.com/danielvargas97/AutoUD/blob/master/Gesti%C3%B3n%20de%20Riesgos/Tabla%20de%20identificacion%20de%20riesgos/Tabla%20de%20identificacion%20de%20riesgos-5.jpg)
 
+### METODOLOGÍA DEV OPS
+
+#### MODELO DE PROCESO
+![Modelo proceso ]
+(https://github.com/danielvargas97/AutoUD/blob/master/Modelo%20de%20Proceso%20de%20Desarrollo/Dev%20Ops%20AutoUD%20IV-1.0.png)
+
 ### Bibliografía.
 
 [1] A Guide to the Project Management Body of Knowledge. Tomado el 24 de junio de 2018.
