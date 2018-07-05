@@ -132,7 +132,7 @@ Al obtener el número de horas requeridas para desarrollar el proyecto, podemos 
 El cronograma permite la asignación de fechas para cada tarea que se tuvo en cuenta a la hora de estimar los módulos de la aplicación. En la siguiente figura, podemos examinar las fechas planteadas para el desarrollo del proyecto:
 
 [Cronograma](https://gcvvs.openproject.com/projects/gestion/timelines/1)
-
+![Cronograma](https://github.com/danielvargas97/AutoUD/blob/master/Cronograma-2.png)
 ### RIESGOS
 
 #### RBS
