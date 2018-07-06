@@ -5,16 +5,16 @@
         <servlet-class>servlets.RegistradorVendedor</servlet-class>
     </servlet>
     <servlet>
-        <servlet-name>L</servlet-name>
-        <servlet-class>servlets.L</servlet-class>
+        <servlet-name>RegistradorVehiculo</servlet-name>
+        <servlet-class>servlets.RegistradorVehiculo</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>RegistradorVendedor</servlet-name>
         <url-pattern>/RegistradorVendedor</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
-        <servlet-name>L</servlet-name>
-        <url-pattern>/L</url-pattern>
+        <servlet-name>RegistradorVehiculo</servlet-name>
+        <url-pattern>/RegistradorVehiculo</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

@@ -21,7 +21,7 @@ public class VehiculoDAO {
     private Vehiculo vehiculo;
     
     public VehiculoDAO(){
-    
+        vehiculo = new Vehiculo();
     }
     
     public void insertarVehiculo(){

@@ -58,7 +58,7 @@
                 <tbody> 
                    <%
                    for (int i = 0; i < ven.size(); i++) { //mientras tenga algo
-                       System.out.println("for");
+                       System.out.println("for" + i);
                    %>
                    <tr>
                     <td class="column1"> <%= ven.get(i).getIdVendedor()%> </td>

@@ -25,9 +25,7 @@
     
 </head>
     <%      
-      Concesionario concesionario = new Concesionario();
-      
-      
+      Concesionario concesionario = new Concesionario();     
       //Date date = new Date();
       
       //out.println("Bienvenido. Hora actual es " + date);
@@ -79,44 +77,45 @@
         </font>
         
         <%if (!request.getParameterMap().isEmpty()) {
-         
-              try {
-                  OrdenPago orden = concesionario.getOdenPago();
-                  //Convertir el codigo postal a un valor num�rico  
-                  int idOrden = (int) Math.random() * (999999 - 100000) + 100000;
-                  String placa = request.getParameter("pla");
-                  int idCliente = (int) Integer.parseInt(request.getParameter("cli"));
-                  int idVendedor = (int) Integer.parseInt(request.getParameter("ven"));
-                  int precioBase = concesionario.buscarVehiculo(placa).getPrecioBase();
-
-                  int precioTotal = precioBase + orden.getIVA(precioBase) + orden.getImpuestoAvaluo(precioBase);
-                  //String estado = "disponible";
-                  //Date fechaActual = date;                
-
-                  long time = System.currentTimeMillis();
-                  Date today = new Date(time);
-                  //System.out.println("Today: " + today);
-                  //out.println("Today: " + today);
-
-                  orden.setIdOrden(idOrden);
-                  orden.setPlaca(placa);
-                  orden.setIdCliente(idCliente);
-                  orden.setIdVendedor(idVendedor);
-                  orden.setPrecioDeOrden(precioTotal);
-                  orden.setEstadoOrden("disponible");
-                  orden.setFecha(today);
-
-                  concesionario.incluirOrdenPago();
-
-                  out.println("Orden: [" + orden.getIdOrden() + "] List@");
-                  out.println(precioBase);
-                  System.out.println(precioBase);
-              } catch (NumberFormatException e) {
-                  out.println("Error --> " + "Necesito ayuda profe, colaboreme");
-              } catch (Exception e1) {
-                  out.println("Error --> " + e1 + e1.getMessage());
-                  System.out.println("Error: " + e1 + e1.getMessage());
-              }
+            
+          try{                
+               OrdenPago orden = concesionario.getOdenPago();  
+               
+                String placa = request.getParameter("pla");
+                int idCliente = (int)Integer.parseInt(request.getParameter("cli"));
+                int idVendedor = (int)Integer.parseInt(request.getParameter("ven"));
+                int precioBase = concesionario.buscarVehiculo(placa).getPrecioBase();
+                
+                int precioTotal = precioBase + orden.getIVA(precioBase) + orden.getImpuestoAvaluo(precioBase);
+                //String estado = "disponible";
+                //Date fechaActual = date;                               
+                
+                long time = System.currentTimeMillis();
+                Date today = new Date(time);
+                //System.out.println("Today: " + today);
+                //out.println("Today: " + today);
+                
+                orden.setPlaca(placa);
+                orden.setIdCliente(idCliente);
+                orden.setIdVendedor(idVendedor);
+                orden.setPrecioDeOrden(precioTotal);
+                orden.setEstadoOrden("disponible");
+                orden.setFecha(today);
+                                
+                concesionario.incluirOrdenPago();
+                
+                
+               out.println("Orden: ["+ orden.getIdOrden() + "] List@");
+               out.println(precioBase);
+               System.out.println(precioBase);
+            }
+            catch(NumberFormatException e ){
+                out.println("Error --> " + "Necesito ayuda profe, colaboreme");
+            }
+            catch(Exception e1){
+                out.println("Error --> " + e1 + e1.getMessage());
+                System.out.println("Error: " + e1 + e1.getMessage());
+            }
             
         }%>
       </div>

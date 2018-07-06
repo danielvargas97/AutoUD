@@ -20,12 +20,6 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     
 </head>
-    <%
-      //Date date = new Date();
-      Concesionario concesionario = new Concesionario();
-      //out.println("Bienvenido. Hora actual es " + date);
-    %>
-
 <body style="background-color: #F2F2F2;"> <!--#F44336-->
     <%@include file="../estructura/noicagevan.html" %>  <br><br><br> <!--Toca meterla a lo gamin pues esta fuera de la raiz--> 
   <div class="content container-fluid text-white " >
@@ -35,10 +29,7 @@
         </a>
       </div>
     </div>
-      
-  
 
-  
     <div class="login-container row">
 
       <div class="col-md-4 ltr-login offset-2" >
@@ -47,7 +38,7 @@
         
         
         <font color="red">
-        <form> <!--class="form" action="/registrar" method="post" enctype="multipart/form-data"-->
+        <form action="/Concesionario/RegistradorVehiculo" method="get"> <!--class="form" action="/registrar" method="post" enctype="multipart/form-data"-->
           <div class="form-group">
             <label for="nickname">PLACA</label>
             <input class="form-control" type="text" name="pla" value=""> 
@@ -98,47 +89,7 @@
           
         </form>
         </font>
-        
-        <%if (!request.getParameterMap().isEmpty()) {
-          
-          try{               
-               Vehiculo v = concesionario.getVehiculo();
-               
-               String placa = request.getParameter("pla");
-               String motor = request.getParameter("mot");
-               String transmision = request.getParameter("tra");
-               String modelo = request.getParameter("mod");
-               String anio = request.getParameter("anio");
-               String estado = "disponible";
-               int precioB = (int)Integer.parseInt(request.getParameter("pb"));
-               String marca = request.getParameter("mar");
-               String color = request.getParameter("col");
-               
-               //String placaConsulta = "bsr099";
-                       
-               v.setPlaca(placa);
-               v.setMotor(motor);
-               v.setTransmision(transmision);
-               v.setModelo(modelo);
-               v.setAnio(anio);
-               v.setEstado(estado);
-               v.setPrecioBase(precioB);
-               v.setMarca(marca);
-               v.setColor(color);
-               
-               concesionario.incluirVehiculo();
-               //System.out.println(concesionario.consultarVehiculo(placaConsulta).getPrecioBase());
-                
-               out.println("El Vehiculo: ["+ v.getPlaca() +  "] Guardado");
-            }
-            catch(NumberFormatException e ){
-                out.println("Error --> " + "Necesito 45 profe, colaboreme");
-            }
-            catch(Exception e1){
-                out.println("Error --> " + e1 + e1.getMessage());
-            }
-            
-        }%>
+
       </div>
 
       <div class="col-md-4 col-md-offset-4 rtl-login">
