@@ -5,6 +5,7 @@
 --%>
 
 
+<%@page import="negocio.Vehiculo"%>
 <%@page import="java.text.SimpleDateFormat"%>
 <%@page import="negocio.Concesionario "%>
 
@@ -48,9 +49,38 @@
         <%if (!request.getParameterMap().isEmpty()) {
             
           try{                
-              int ven = Integer.parseInt(request.getParameter("ven"));
-               int prueba =  concesionario.getTotalVentas(ven);
-               out.println("value: " + prueba);
+              String placa = request.getParameter("ven");
+              Vehiculo veh = concesionario.consultarVehiculo(placa);               
+              if(veh == null){
+                  out.println("Ese tal carro NO EXISTE :V");                          
+              }
+              else{
+                  
+                  out.println("<table>");
+                  out.println("<thead>");
+                  out.println("<tr>");
+                  out.println("<th>Placa</th>");
+                  out.println("<th>Marca</th>");
+                  out.println("<th>Modelo</th>");
+                  out.println("<th>Año</th>");
+                  out.println("<th>Color</th>");
+                  out.println("<th>Motor</th>");
+                  out.println("<th>Transmision</th>");                                    
+                  out.println("</tr>");
+                  out.println("<tbody>");
+                  out.println("<tr>");
+                  out.println("<td>"+veh.getPlaca());
+                  out.println("<td>"+veh.getMarca());
+                  out.println("<td>"+veh.getModelo());                        
+                  out.println("<td>"+veh.getAnio());
+                  out.println("<td>"+veh.getColor());
+                  out.println("<td>"+veh.getMotor());
+                  out.println("<td>"+veh.getTransmision());
+                  out.println("</tr>");
+                  out.println("</tbody>");
+                  out.println("</table>");
+              }
+            
             }
             catch(NumberFormatException e ){
                 out.println("Error --> " + "Necesito ayuda profe, colaboreme");

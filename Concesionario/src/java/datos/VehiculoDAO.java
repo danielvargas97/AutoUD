@@ -67,7 +67,7 @@ public class VehiculoDAO {
             
             Connection conn = s.tomarConexion();
             PreparedStatement ps = conn.prepareCall(sql);
-            ps.setString(1, vehiculo.getPlaca());
+            ps.setString(1, placa);
             
             ResultSet rs = ps.executeQuery();
             
