@@ -79,7 +79,7 @@
         <%if (!request.getParameterMap().isEmpty()) {
             
           try{                
-               OrdenPago orden = concesionario.getOdenPago();  
+               OrdenPago orden = concesionario.getOrdenPago();  
                
                 String placa = request.getParameter("pla");
                 int idCliente = (int)Integer.parseInt(request.getParameter("cli"));

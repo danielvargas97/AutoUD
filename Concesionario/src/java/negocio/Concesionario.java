@@ -11,6 +11,7 @@ import conexion.CaException;
 import datos.VendedorDAO;
 import datos.VehiculoDAO;
 import datos.OrdenPagoDAO;
+import datos.NominaDAO;
         
 import java.sql.SQLException;
 
@@ -24,12 +25,14 @@ public class Concesionario {
     private VendedorDAO vendedorDAO = new VendedorDAO();
     private VehiculoDAO vehiculoDAO = new VehiculoDAO();
     private OrdenPagoDAO ordenPagoDAO = new OrdenPagoDAO();
+    private NominaDAO nominaDAO = new NominaDAO();
     
     public Concesionario() {
          clienteDAO = new ClienteDAO();
          vendedorDAO = new VendedorDAO();
          vehiculoDAO = new VehiculoDAO();
          ordenPagoDAO = new OrdenPagoDAO();
+         nominaDAO = new NominaDAO();
     }
     
    /**
@@ -85,7 +88,7 @@ public class Concesionario {
         System.out.println("Consulta");
         return vehiculoDAO.buscarVehiculo(placa);        
     }
-    
+    //Orden de pago!
     public void incluirOrdenPago() throws CaException, SQLException{
         ordenPagoDAO.agregarOdenPago();
     }
@@ -94,8 +97,13 @@ public class Concesionario {
         ordenPagoDAO.actualizarOdenPago(op);
     }
     
-    public OrdenPago getOdenPago(){
+    public OrdenPago getOrdenPago(){
         return ordenPagoDAO.getOrdenPago();                
     } 
+    
+    public int getTotalVentas(int idVendedor) throws CaException{
+        return nominaDAO.valorTotalVentas(idVendedor);
+    }
+    
     
 }
