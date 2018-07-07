@@ -8,6 +8,10 @@
         <servlet-name>RegistradorVehiculo</servlet-name>
         <servlet-class>servlets.RegistradorVehiculo</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>RegistradorCliente</servlet-name>
+        <servlet-class>servlets.RegistradorCliente</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>RegistradorVendedor</servlet-name>
         <url-pattern>/RegistradorVendedor</url-pattern>
@@ -15,6 +19,10 @@
     <servlet-mapping>
         <servlet-name>RegistradorVehiculo</servlet-name>
         <url-pattern>/RegistradorVehiculo</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>RegistradorCliente</servlet-name>
+        <url-pattern>/RegistradorCliente</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
