@@ -23,7 +23,7 @@ de proyecto.
 
 ## Administración
 ### Estructura organizacional
-![]()
+![Organigrama SQA](https://github.com/danielvargas97/AutoUD/blob/master/SQA_Struct.png)
 ### Asignación de responsabilidades
 #### Gerente
 - Definición de estrategias para la implantación de prácticas de SQA.
