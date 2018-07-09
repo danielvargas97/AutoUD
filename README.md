@@ -161,15 +161,15 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 
 ### SQA
 #### Plan de SQA
-![Plan SQA](https://github.com/danielvargas97/AutoUD/blob/master/PlanQA.md)
+[Plan SQA](https://github.com/danielvargas97/AutoUD/blob/master/PlanQA.md)
 
 
 ### PRUEBAS
 #### Plan de Pruebas
-![Plan de Pruebas](https://github.com/danielvargas97/AutoUD/blob/master/plan_pruebas.md)
+[Plan de Pruebas](https://github.com/danielvargas97/AutoUD/blob/master/plan_pruebas.md)
 
 #### Casos de prueba
-![Casos de prueba]()
+[Casos de prueba]()
 ### Bibliografía.
 
 [1] A Guide to the Project Management Body of Knowledge. Tomado el 24 de junio de 2018.
