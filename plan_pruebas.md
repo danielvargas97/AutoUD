@@ -162,7 +162,11 @@ En el proyecto tenemos ciertos riesgos asociados con el proceso de pruebas de so
 
 ## Referencias 
 -[Plan de Proyecto](https://github.com/danielvargas97/AutoUD/blob/master/README.md)
+-[¿Qué es una Matriz RACI? ]http://www.cantabriatic.com/que-es-una-matriz-raci/
 
 ## Glosario
-Definiciones de términos usados en la documentación, y general sobre el área de pruebas.
-
+### Glosario Matriz RACI
+- R: Responsible / Responsable. Es el que se encarga de hacer la tarea o actividad.
+- A: Accountable / Persona a cargo. Es la persona que es responsable de que la tarea esté hecha. No es lo mismo que la R, ya que no tiene - porqué ser quien realiza la tarea, puede delegarlo en otros. Sin embargo, si es quien debe asegurarse de que la tarea sea haga, y se haga bien.
+-C: Consulted / Consultar. Los recursos con este rol son las personas con las que hay consultar datos o decisiones con respecto a la actividad o proceso que se define.
+- I: Informed / Informar. A estas personas se las informa de las decisiones que se toman, resultados que se producen, estados del servicio, grados de ejecución…
