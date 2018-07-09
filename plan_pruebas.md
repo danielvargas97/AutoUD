@@ -60,12 +60,11 @@ El propósito del presente documento es describir e informar al lector acerca de
 - Inventario de vehículo del concesionario.
 
 ### Pruebas de Regresión 
-
-Listado de las funcionalidades no directamente involucradas en el desarrollo, pero cuyos componentes están siendo afectados y por ende deben probarse para asegurar que continúan funcionando adecuadamente. Al igual que en el punto anterior, se describen desde el punto de vista del usuario. 
+- Registro de Empleado.
+- Registro de Cliente.
 
 ### Funcionalidades a No Probar 
-- 
-Listado de las funcionalidades que NO se van a probar. Debe incluir información de las razones por las cuales no se van a probar y los riesgos que se están asumiendo.
+- Aquellas que no han sido listadas anteriormente, ya que cubren el alcance establecido y esperado por el equipo de trabajo.
 
 ### Enfoque de Pruebas (Estrategia) 
 La Estrategia de Pruebas puede definirse como un documento aparte, o puede ser incluido dentro del Plan de Pruebas según su extensión. Aquí pueden definirse los tipos de pruebas a realizar (funcionales, de desempeño, de interfaces, no funcionales, etc.), requerimientos especiales de las pruebas, configuraciones a probar, subconjuntos de datos a considerar, nivel de pruebas de regresión, entre otros aspectos.
@@ -75,7 +74,6 @@ La Estrategia de Pruebas puede definirse como un documento aparte, o puede ser i
 - Completar el 100% de las pruebas unitarias.
 - 80% de casos exitosos.
 - 80% de defectos corregidos.
-
 - Cobertura de las funcionalidades mencionadas anteriormente.
 
 ### Criterios de Suspensión 
@@ -151,15 +149,7 @@ En el proyecto tenemos ciertos riesgos asociados con el proceso de pruebas de so
 	- Buscar nuevas herramientas que puedan solventar las falencias del software que usamos (Selenium).
 
 ## Referencias 
-Ponho!
-Lista de todos los documentos que pueden citarse como apoyo o para ampliar el contenido del plan de pruebas. Algunos ejemplos de lo que se puede hacer referencia aquí son: 
-•	Plan de Proyecto.
-•	Especificaciones de Requerimientos. 
-•	Diseño General.
-•	Diseño Detallado. 
-•	Procedimientos y estándares de Desarrollo. 
-•	Procedimientos y estándares de Pruebas. 
-•	Metodologías, Procedimientos y estándares corporativos.
+-[Plan de Proyecto](https://github.com/danielvargas97/AutoUD/blob/master/README.md)
 
 ## Glosario
 Definiciones de términos usados en la documentación, y general sobre el área de pruebas.
