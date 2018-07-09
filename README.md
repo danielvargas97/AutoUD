@@ -159,6 +159,17 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 #### MODELO DE PROCESO
 ![Modelo proceso](https://github.com/danielvargas97/AutoUD/blob/master/Modelo%20de%20Proceso%20de%20Desarrollo/Dev%20Ops%20AutoUD%20IV-1.0.png)
 
+### SQA
+#### Plan de SQA
+![Plan SQA](https://github.com/danielvargas97/AutoUD/blob/master/PlanQA.md)
+
+
+### PRUEBAS
+#### Plan de Pruebas
+![Plan de Pruebas](https://github.com/danielvargas97/AutoUD/blob/master/plan_pruebas.md)
+
+#### Casos de prueba
+![Casos de prueba]()
 ### Bibliografía.
 
 [1] A Guide to the Project Management Body of Knowledge. Tomado el 24 de junio de 2018.
