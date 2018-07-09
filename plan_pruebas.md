@@ -162,7 +162,7 @@ En el proyecto tenemos ciertos riesgos asociados con el proceso de pruebas de so
 
 ## Referencias 
 -[Plan de Proyecto](https://github.com/danielvargas97/AutoUD/blob/master/README.md)
--[¿Qué es una Matriz RACI? ]http://www.cantabriatic.com/que-es-una-matriz-raci/
+-[¿Qué es una Matriz RACI? ](http://www.cantabriatic.com/que-es-una-matriz-raci/)
 
 ## Glosario
 ### Glosario Matriz RACI
