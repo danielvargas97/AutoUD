@@ -128,7 +128,18 @@ Capacitación de los empleados en las herramientas pertinentes en la ejecución 
 - Pruebas de Aceptación.
 
 ### Matriz de Responsabilidades
-Lista cada una de las personas integrantes del equipo de QA y sus responsabilidades. Se puede hacer uso de una Matriz RACI (Responsable, Aprobador, Consultado, Informado). 
+#### Integrantes del equipo QA:
+- Gerente de calidad
+	- David Ricardo Cortes Leal.	
+- Ingeniero de calidad	
+	- David Hernando Castro Santiago.
+	- Juan Sebastián Sanchez Mancilla.
+- Asistente Ingeniero de calidad
+	- Óscar Iván Torres Pinto.			
+	- Daniel Alfonso Vargas Ortiz.
+
+#### Matriz RACI
+![Matriz RACI](https://github.com/danielvargas97/AutoUD/blob/master/matrizRACI.png)
 
 ### Cronograma
 //Referenciar cronograma de tareas en esta sección.
