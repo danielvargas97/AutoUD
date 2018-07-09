@@ -67,7 +67,8 @@ El propósito del presente documento es describir e informar al lector acerca de
 - Aquellas que no han sido listadas anteriormente, ya que cubren el alcance establecido y esperado por el equipo de trabajo.
 
 ### Enfoque de Pruebas (Estrategia) 
-La Estrategia de Pruebas puede definirse como un documento aparte, o puede ser incluido dentro del Plan de Pruebas según su extensión. Aquí pueden definirse los tipos de pruebas a realizar (funcionales, de desempeño, de interfaces, no funcionales, etc.), requerimientos especiales de las pruebas, configuraciones a probar, subconjuntos de datos a considerar, nivel de pruebas de regresión, entre otros aspectos.
+Se busca realizar pruebas de las funcionalidades, de interfaces y requerimentos no funcionales de los componentes de Nómina, Venta e Inventario. Para ello, se busca un subconjunto de entradas definidas (Ej: Nombre, Apellido, Placa de vehículo, Documento de identificación, entre otros) y configuraciones (Ej: Navegadores), que conduzcan hacia el correcto cumplimiento de los requerimentos, establecidos en el documento de plan de proyecto.
+
 
 ## Criterios de Aceptación o Rechazo
 ### Criterios de Aceptación o Rechazo 
@@ -106,7 +107,7 @@ La Estrategia de Pruebas puede definirse como un documento aparte, o puede ser i
 
 ### Requerimientos de Entornos – Software 
 - Software de automatización de Pruebas.
-- Navegador WEB (Firefox o GChrome).
+- Navegador WEB (Firefox o Google Chrome).
 
 ### Personal
 Segun el organigrama establecido; tenemos 5 integrantes que cumpliran con los roles de lider, Analistas de pruebas, desarrolladores, diseñadores y DBA.
