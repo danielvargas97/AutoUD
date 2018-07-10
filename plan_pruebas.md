@@ -142,6 +142,7 @@ Capacitación de los empleados en las herramientas pertinentes en la ejecución 
 ![Matriz RACI](https://github.com/danielvargas97/AutoUD/blob/master/matrizRACI.png)
 
 ### Cronograma
+![Cronograma Pruebas]((https://github.com/danielvargas97/AutoUD/blob/master/Cronograma-Pruebas.png)
 //Referenciar cronograma de tareas en esta sección.
 
 ### Premisas
