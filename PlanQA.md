@@ -9,6 +9,9 @@
 #### Estructura organizacional
 #### Asignación de responsabilidades
 
+### Requerimientos
+#### Requerimientos de Calidad
+
 ### Documentación
 #### Objetivos
 #### Documentación mínima aceptable
@@ -66,6 +69,21 @@ Entre los objetivos que busca la documentación, se busca un adecuado manejo med
 ## Estándares
 ### Objetivos
 - Establecer estándares para los procesos que se ajusten a los objetivos de la organización.
+
+## Requerimientos
+### Requerimientos de Calidad
+Para los requerimentos, se tienen las siguientes características 
+- Operatividad
+	- Seguridad.
+	- Conformidad.
+	- Usabilidad.
+	- Correctitud.
+	- Eficiencia
+- Mantenibililidad.
+	- Testeabilidad.
+	- Flexibilidad.
+- Adaptabilidad
+	- Portabilidad.
 
 ### Estandares para diseño, programación, medición y pruebas del producto.
 
