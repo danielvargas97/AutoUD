@@ -3,17 +3,10 @@
 ## Especificación de Caso de Prueba: <Nombre del caso de prueba> 
 ### Versión 0.1
 
-<espacio_en_blanco>
-<espacio_en_blanco>
-<espacio_en_blanco>
-<espacio_en_blanco>
 ## Historial de Revisiones
 
 ### Fecha|	Versión |	Descripción |	Autor
 
-						
-<espacio_en_blanco>
-<espacio_en_blanco>			
 
 ## Tabla de Contenidos
  - Descripción
