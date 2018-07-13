@@ -5,9 +5,7 @@
 |    Fecha   | Versión |                                 Descripción            |      Autor      |
 |:----------:|:-------:|:------------------------------------------------------:|:---------------:|
 | 11/07/2018 |   1.0   | Implementación caso de prueba: Consulta de nomina      |   David Castro  |
-|:----------:|:-------:|:------------------------------------------------------:|:---------------:|
 | 11/07/2018 |   1.0   | Implementación caso de prueba: Registro de vehiculos   |   David Castro  |
-|:----------:|:-------:|:------------------------------------------------------:|:---------------:|
 | 11/07/2018 |   1.0   | Implementación caso de prueba: Creación de cotización  |   David Castro  |
 
 
@@ -59,7 +57,7 @@ La pagina muestra una tabla que lista a todos los empleados con sus respectivas 
 
 El estado de la prueba es : En evaluación
 
-## Caso de prueba:Registro de vehiculos <a name="tipocTwo"> </a>
+## Caso de prueba:Registro de vehiculos <a name="topicTwo"> </a>
 **1.Descripción:**
 
 Este artefacto cubre el conjunto de pruebas realizadas sobre el caso de uso de registro de vehiculos.
@@ -114,13 +112,12 @@ La página vuelve al menu principal y el programa agrega a la base de datos el a
 
 El estado de la prueba es : en evaluación
 
-## Caso de Prueba: Creación de la cotización <a name="third-example"></a>
+## Caso de Prueba: Creación de la cotización <a name="topicThree"></a>
 
 **1.Descripción:**
 
 Este artefacto cubre el conjunto de pruebas realizadas sobre la historia de Usuario de la creación de la cotización.
 
-![Historia de usuario 1](/images/historiaU1.PNG)
 
 La pruebas realizadas a este caso de uso son:
 
