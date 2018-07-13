@@ -177,8 +177,7 @@ El cronograma permite la asignación de fechas para cada tarea que se tuvo en cu
 [Plan de Pruebas](https://github.com/danielvargas97/AutoUD/blob/master/plan_pruebas.md)
 
 #### Casos de prueba
-[Casos de prueba 1](https://github.com/danielvargas97/AutoUD/blob/master/caso_pruebas_1.md)
-[Casos de prueba 2](https://github.com/danielvargas97/AutoUD/blob/master/caso_pruebas_2.md)
+[Casos de prueba](https://github.com/danielvargas97/AutoUD/blob/master/Casos_pruebas.md)
 
 ### Manual de Despliegue (PDF)
 [Manual despliegue](https://github.com/danielvargas97/AutoUD/blob/master/Manual%20de%20despliegue%20PDF.pdf)
